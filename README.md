@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/man-i-feel-like-a-woman/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Man! I Feel Like a Woman!](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/man-i-feel-like-a-woman/) |
+| **Get License** | [Music Rights & Licensing for Man! I Feel Like a Woman!](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/man-i-feel-like-a-woman/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The midnight fire is burning up this lonely open road
+> He drives me crazy where the steady river flowed
+> Come slide a little closer, let the wild desire ignite
+> We are gonna own the passion of this endless country night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
