@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/man-i-feel-like-a-woman/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Man! I Feel Like a Woman!](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/man-i-feel-like-a-woman/) |
+| **Get License** | [Secure Licensing Rights for Man! I Feel Like a Woman!](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/man-i-feel-like-a-woman/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1868)
 
 ---
 
